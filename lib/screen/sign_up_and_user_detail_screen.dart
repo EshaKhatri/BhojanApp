@@ -271,18 +271,18 @@ class _SignUpScreenState extends State<SignUpScreen> {
                               ),
                             ),
                           ),
-                          Padding(
-                            padding:
-                                const EdgeInsets.only(left: 20, bottom: 15),
-                            child: Text(
-                              'to continue with BASK',
-                              style: TextStyle(
-                                color: Colors.white,
-                                fontWeight: FontWeight.w600,
-                                fontSize: 20,
-                              ),
-                            ),
-                          )
+//                           Padding(
+//                             padding:
+//                                 const EdgeInsets.only(left: 20, bottom: 15),
+//                             child: Text(
+//                               'to continue with BASK',
+//                               style: TextStyle(
+//                                 color: Colors.white,
+//                                 fontWeight: FontWeight.w600,
+//                                 fontSize: 20,
+//                               ),
+//                             ),
+//                           )
                         ],
                       )),
                   Container(
